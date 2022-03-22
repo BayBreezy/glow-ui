@@ -2,6 +2,15 @@
   "name": "glow",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Behon Baker",
+    "email": "behon.baker@yahoo.com",
+    "url": "https://behonbaker.com"
+  },
+  "repository": {
+    "url": "https://github.com/BayBreezy/glow-ui"
+  },
+  "homepage": "https://glow.behonbaker.com/",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
